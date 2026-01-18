@@ -2,8 +2,8 @@
 Welcome to Unicorn Vision! A vision system that can stream a robot POV to a website, deployable on Raspberry Pis!
 
 <img width="500" height="500" alt="Pink Fluffy Unicorns Logo" src="https://github.com/user-attachments/assets/ac02c1a1-983c-4ac1-a59a-60bd9b3d0015" />
-## About
 
+## About
 ### What is Unicorn Vision?
 Unicorn Vision is a side project started by The Pink Fluffy Unicorns [83] to explore how to integrate vision into MiniFRC through Raspberry Pis. The program can currently stream video from the RPI to a dedicated website for viewing the feed.
 
